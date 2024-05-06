@@ -14,3 +14,6 @@ Amazon_Product_Co_purchasing_Network.ipynb is the main file to achieve targets.
 copurchasingPatterns.py is used to show Top 10 frequent co-purchasing patterns analysis
 
 Other files are used data in this project.
+
+![image](https://github.com/377188987/Amazon-Product-Co-purchasing-Network/assets/57078621/bbed3776-5e0b-4440-b151-55e5ce3532d0)
+
